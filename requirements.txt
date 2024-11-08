@@ -1,0 +1,8 @@
+fastapi
+pydantic
+pandas
+transformers
+torch
+scikit-learn
+numpy
+uvicorn
